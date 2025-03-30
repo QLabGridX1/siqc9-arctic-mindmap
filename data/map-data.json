@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "title": "Opening Context",
+      "color": "yellow",
+      "children": []
+    },
+    {
+      "title": "Criticism of the West",
+      "color": "orange",
+      "children": []
+    },
+    {
+      "title": "Historical Narrative",
+      "color": "yellow",
+      "children": []
+    },
+    {
+      "title": "Russian Sovereignty Doctrine",
+      "color": "red",
+      "children": []
+    },
+    {
+      "title": "Infrastructure Vision",
+      "color": "orange",
+      "children": []
+    },
+    {
+      "title": "Economic Mobilization",
+      "color": "yellow",
+      "children": []
+    },
+    {
+      "title": "Sociopolitical Legitimacy",
+      "color": "green",
+      "children": []
+    },
+    {
+      "title": "Environmental Projects",
+      "color": "green",
+      "children": []
+    },
+    {
+      "title": "National Destiny",
+      "color": "yellow",
+      "children": []
+    }
+  ]
+}
