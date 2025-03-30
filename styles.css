@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eceff1;
+  color: #212121;
+  text-align: center;
+  padding: 40px;
+}
+
+#map-container {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.node {
+  padding: 12px 18px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.critical { background-color: #d32f2f; }
+.high { background-color: #f57c00; }
+.medium { background-color: #fbc02d; color: #000; }
+.low { background-color: #388e3c; }
