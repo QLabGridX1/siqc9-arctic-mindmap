@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "title": "Opening Context",
+      "urgency": "Volatile",
+      "children": [
+        {
+          "title": "Rising Arctic Interest",
+          "countermeasure": "Expand diplomatic Arctic forums"
+        },
+        {
+          "title": "Military Mobilization",
+          "countermeasure": "Enhance regional early warning systems"
+        }
+      ]
+    }
+  ]
+}
