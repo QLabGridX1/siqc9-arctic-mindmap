@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #e6e9ed;
+  margin: 0;
+  padding: 2em;
+}
+h1 {
+  text-align: center;
+  color: #111;
+}
+.node {
+  border-radius: 6px;
+  padding: 12px 20px;
+  margin: 10px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-block;
+}
+.critical { background: #e74c3c; }
+.high { background: #e67e22; }
+.medium { background: #f1c40f; }
+.low { background: #2ecc71; }
+.subnode {
+  margin: 8px 30px;
+  background: #fff;
+  padding: 10px;
+  border-left: 3px solid #3498db;
+}

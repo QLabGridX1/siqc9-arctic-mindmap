@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "title": "Opening Context",
+      "urgency": "medium",
+      "children": [
+        {
+          "title": "Regional Turbulence",
+          "countermeasure": "Activate early warning cells"
+        },
+        {
+          "title": "Allied Anxiety",
+          "countermeasure": "Brief partners via diplomatic hotline"
+        }
+      ]
+    },
+    {
+      "title": "Russian Sovereignty Doctrine",
+      "urgency": "critical",
+      "children": [
+        {
+          "title": "Submarine Shadow Patrol",
+          "countermeasure": "Deploy sonar web"
+        },
+        {
+          "title": "Satellite Blinding Threat",
+          "countermeasure": "Launch decoy constellation"
+        }
+      ]
+    }
+  ]
+}
